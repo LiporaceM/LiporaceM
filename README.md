@@ -1,7 +1,7 @@
 # Olá, Eu sou o LiporaceM 👋
 
 ## Sobre Mim
-Sou um desenvolvedor Full Stack apaixonado por criar soluções inovadoras e eficientes. Tenho experiência em desenvolvimento web, automação de processos e sempre busco aprender novas tecnologias para melhorar minhas habilidades.
+Sou um desenvolvedor Full Stack apaixonado jogos e programas e espero trabalhar com o que eu amo no futuro. Tenho experiência em desenvolvimento web, front e backend alem de desenvolvimento para Android e conhecimento em Banco de Dados.
 
 ## Habilidades
 ### Linguagens de Programação
@@ -21,13 +21,15 @@ Sou um desenvolvedor Full Stack apaixonado por criar soluções inovadoras e efi
 - CSS
 
 ## Projetos
-### [Projeto 1: Nome do Projeto](https://github.com/LiporaceM/Projeto1)
-Descrição breve do projeto, seus objetivos e tecnologias usadas.
-![Screenshot](https://link-para-sua-imagem-do-projeto1.png)
 
-### [Projeto 2: Nome do Projeto](https://github.com/LiporaceM/Projeto2)
-Descrição breve do projeto, seus objetivos e tecnologias usadas.
-![GIF](https://link-para-seu-gif-do-projeto2.gif)
+
+### [Projeto Mario runner](https://github.com/LiporaceM/Projeto2](https://github.com/LiporaceM/mario_runner)
+Esse foi o meu primeiro grande projeto, foi desenvolvido em Python e é um jogo 2D aonde o Mario tenta desviar de obstáculos como goombas e koopatropas. 
+![Screenshot](https://link-para-seu-gif-do-projeto2.gif)
+
+### [Projeto MBTI](https://github.com/LiporaceM/Projeto1](https://github.com/LiporaceM/MBTI)
+Esse é um projeto que foi feito para a disciplina de Desenvolvimento Mobile e foi feito em Kotlin baseado no teste de personalidade da tipologia de Myers-Briggs
+![Screenshot](https://link-para-sua-imagem-do-projeto1.png)
 
 ## Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusliporace/)
