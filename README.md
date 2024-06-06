@@ -1,4 +1,4 @@
-# Olá, Eu sou o Matheus Liporace
+# Olá, Eu sou o LiporaceM 👋
 
 ## Sobre Mim
 Sou um desenvolvedor Full Stack apaixonado por criar soluções inovadoras e eficientes. Tenho experiência em desenvolvimento web, automação de processos e sempre busco aprender novas tecnologias para melhorar minhas habilidades.
@@ -30,8 +30,8 @@ Descrição breve do projeto, seus objetivos e tecnologias usadas.
 ![GIF](https://link-para-seu-gif-do-projeto2.gif)
 
 ## Contato
-- [LinkedIn]([https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/matheusliporace/))
-- [Email](mailto:matheusliporace@gmail.com)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=[https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/matheusliporace/))
+![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:matheusliporace@gmail.com)
 
 ## Estatísticas do GitHub
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LiporaceM&theme=react-dark)
@@ -39,4 +39,4 @@ Descrição breve do projeto, seus objetivos e tecnologias usadas.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LiporaceM&show_icons=true&theme=dark)
 
 ![GitHub followers](https://img.shields.io/github/followers/LiporaceM?style=social)
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=[https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/matheusliporace/))
+
