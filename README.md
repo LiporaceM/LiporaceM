@@ -35,12 +35,11 @@ Esse é um projeto que foi feito para a disciplina de Desenvolvimento Mobile e f
 ![mbtiprint](https://github.com/LiporaceM/LiporaceM/assets/108703224/0b11010c-9a49-48a1-b2ad-f3d7ba8c0342)
 
 ## Estatísticas do GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiporaceM&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LiporaceM&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LiporaceM&show_icons=true&theme=dark)
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LiporaceM&show_icons=true&theme=dark)
-
-![GitHub followers](https://img.shields.io/github/followers/LiporaceM?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/LiporaceM?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/LiporaceM?style=social)
 
 ## Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusliporace/)
