@@ -1,4 +1,5 @@
-# Olá, Eu sou o Matheus Liporace 👋
+<div style="border: 2px solid #4CAF50; padding: 20px; border-radius: 10px;">
+Olá, Eu sou o Matheus Liporace 👋
 
 ## Sobre Mim
 Sou um desenvolvedor Full Stack apaixonado por jogos e programas e espero trabalhar com o que eu amo no futuro. Tenho experiência em desenvolvimento web, front e backend além de desenvolvimento para Android e conhecimento em Banco de Dados.
