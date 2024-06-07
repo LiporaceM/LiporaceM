@@ -11,7 +11,7 @@ Estou cursando FullStack Development no IBMEC-RJ e atualmente no 3° período do
 ☕ Java <br>
 🚀 Golang <br>
 📱 Kotlin <br>
-🔥 SQL <br>
+🗃️ SQL <br>
 ### Frameworks e Bibliotecas
 ⚛️ ReactJS <br>
 💾 Flask <br>
