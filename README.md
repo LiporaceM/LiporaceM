@@ -17,6 +17,7 @@ Sou um desenvolvedor Full Stack apaixonado por jogos e programas e espero trabal
 - Flask
 - Pygame
 - JUnit
+- Django
 
 ### Desenvolvimento Web
 - HTML
