@@ -5,23 +5,21 @@ Sou um desenvolvedor Full Stack apaixonado por jogos e programas e espero trabal
 
 ## Habilidades
 ### Linguagens de Programação
-- Python
-- JavaScript (JS)
-- Java
-- Golang
-- Kotlin
-- SQL
-
+🐍 Python <br>
+💻 JavaScript (JS) <br>
+☕ Java <br>
+🚀 Golang <br>
+📱 Kotlin <br>
+💾 SQL <br>
 ### Frameworks e Bibliotecas
-- ReactJS
-- Flask
-- Pygame
-- JUnit
-- Django
-
+⚛️ ReactJS <br>
+🔥 Flask <br>
+🎮 Pygame <br>
+🧪 JUnit <br>
+🌿 Django <br>
 ### Desenvolvimento Web
-- HTML
-- CSS
+🌍 HTML <br>
+🎨 CSS <br>
 
 ## Projetos
 
