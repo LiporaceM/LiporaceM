@@ -25,12 +25,12 @@ Sou um desenvolvedor Full Stack apaixonado por jogos e programas e espero trabal
 ## Projetos
 
 
-### [Projeto Mario runner] (https://github.com/LiporaceM/mario_runner <br>
+### [Projeto Mario runner] https://github.com/LiporaceM/mario_runner <br>
 Esse foi o meu primeiro grande projeto, foi desenvolvido em Python e é um jogo 2D aonde o Mario tenta desviar de obstáculos como goombas e koopatropas.
 
 ![Captura de tela 2024-06-06 205514](https://github.com/LiporaceM/LiporaceM/assets/108703224/c9bfec36-1baf-47f0-9a7c-d34a0dc7dd29)
 
-### [Projeto MBTI] (https://github.com/LiporaceM/MBTI <br>
+### [Projeto MBTI] https://github.com/LiporaceM/MBTI <br>
 Esse é um projeto que foi feito para a disciplina de Desenvolvimento Mobile e foi feito em Kotlin baseado no teste de personalidade da tipologia de Myers-Briggs.
 
 ![mbtiprint](https://github.com/LiporaceM/LiporaceM/assets/108703224/0b11010c-9a49-48a1-b2ad-f3d7ba8c0342)
