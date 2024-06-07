@@ -36,10 +36,6 @@ Esse é um projeto que foi feito para a disciplina de Desenvolvimento Mobile e f
 
 ![mbtiprint](https://github.com/LiporaceM/LiporaceM/assets/108703224/0b11010c-9a49-48a1-b2ad-f3d7ba8c0342)
 
-## Contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusliporace/)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:matheusliporace@gmail.com)
-
 ## Estatísticas do GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiporaceM&layout=compact&theme=dark)
 
@@ -47,3 +43,7 @@ Esse é um projeto que foi feito para a disciplina de Desenvolvimento Mobile e f
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LiporaceM&show_icons=true&theme=dark)
 
 ![GitHub followers](https://img.shields.io/github/followers/LiporaceM?style=social)
+
+## Contato
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusliporace/)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:matheusliporace@gmail.com)
