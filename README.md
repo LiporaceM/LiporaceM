@@ -15,6 +15,7 @@ Sou um desenvolvedor Full Stack apaixonado jogos e programas e espero trabalhar 
 ### Frameworks e Bibliotecas
 - ReactJS
 - Flask
+- Pygame
 
 ### Desenvolvimento Web
 - HTML
