@@ -26,7 +26,7 @@ Estou cursando FullStack Development no IBMEC-RJ e atualmente no 3° período do
 ## Projetos
 
 
-### [Projeto Mario Runner](https://github.com/LiporaceM/mario_runner)
+### [Projeto Mario Runner](https://github.com/LiporaceM/mario_runner) <br>
 Esse foi o meu primeiro grande projeto, foi desenvolvido em Python e é um jogo 2D aonde o Mario tenta desviar de obstáculos como goombas e koopatropas.
 
 ![Captura de tela 2024-06-06 205514](https://github.com/LiporaceM/LiporaceM/assets/108703224/c9bfec36-1baf-47f0-9a7c-d34a0dc7dd29)
@@ -34,7 +34,14 @@ Esse foi o meu primeiro grande projeto, foi desenvolvido em Python e é um jogo 
 ### [Projeto MBTI](https://github.com/LiporaceM/MBTI) <br>
 Esse é um projeto que foi feito para a disciplina de Desenvolvimento Mobile e foi feito em Kotlin baseado no teste de personalidade da tipologia de Myers-Briggs.
 
+
 ![mbtiprint](https://github.com/LiporaceM/LiporaceM/assets/108703224/0b11010c-9a49-48a1-b2ad-f3d7ba8c0342)
+
+### [Projeto Haru e Maze](https://github.com/LiporaceM/HaruMaze) <br>
+Esse projeto é uma extensão para o Visual Studio Code que adiciona um vídeo animado dos meus gatos Haru e Maze bebendo agua.
+
+![image](https://github.com/LiporaceM/LiporaceM/assets/108703224/e8788a77-8f45-4ece-bc1a-e97da803b37c)
+
 
 ## Estatísticas do GitHub
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LiporaceM&layout=compact&theme=dark) <br>
