@@ -43,6 +43,14 @@ Esse projeto é uma extensão para o Visual Studio Code que adiciona um vídeo a
 ![image](https://github.com/LiporaceM/LiporaceM/assets/108703224/e8788a77-8f45-4ece-bc1a-e97da803b37c)
 
 
+### [Projeto IntelliFood](https://github.com/LiporaceM/IntelliFood) <br>
+Projeto que foi feito para a disciplina de Startups e Negocios Digitais do IBMEC, aonde nosso aplicativo soluciona a dor de não saber ou ter tempo de preparar o que comer, mesmo tendo tudo em casa.
+
+![image](https://github.com/LiporaceM/LiporaceM/assets/108703224/7914686d-17fd-4b45-8746-fd497352dd1c)
+
+
+
+
 ## Estatísticas do GitHub
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LiporaceM&layout=compact&theme=dark) <br>
 
