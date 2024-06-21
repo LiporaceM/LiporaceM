@@ -22,6 +22,7 @@ Estou cursando FullStack Development no IBMEC-RJ e atualmente no 3° período do
 🌍 HTML <br>
 🎨 CSS <br>
 📄 JSON <br>
+📜 TypeScript (TS) <br>
 
 ## Projetos
 
