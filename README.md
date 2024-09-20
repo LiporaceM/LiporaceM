@@ -1,8 +1,8 @@
 # Olá, Meu nome é Matheus Liporace 👋
 
 ## Sobre Mim
-Sou um desenvolvedor Full Stack apaixonado por jogos e programas e espero trabalhar com o que eu amo no futuro. Tenho experiência em desenvolvimento web, front e backend além de desenvolvimento para Android e conhecimento em Banco de Dados.<br>
-Estou cursando FullStack Development no IBMEC-RJ e atualmente no 4° período do curso.
+Sou um jogador profissional de Counter-Strike e sou apaixonado por jogos e programas e espero trabalhar com o que eu amo no futuro. Tenho experiência em desenvolvimento web, front e backend além de desenvolvimento mobile para Android e conhecimento em Banco de Dados.<br>
+Estou cursando Engenharia de Software no IBMEC-RJ e atualmente no 5° período do curso.
 
 ## Habilidades
 ### Linguagens de Programação
